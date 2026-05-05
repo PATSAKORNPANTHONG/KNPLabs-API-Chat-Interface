@@ -1,0 +1,6 @@
+{
+  "name": "KNP Lab AI Chat",
+  "description": "A professional chat interface powered by the KNP Lab AI API (base on Claude Sonnet 4.6).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
